@@ -3,8 +3,6 @@
 
 Hi, I'm Ryan Yang, a Full Stack Developer 🚀, currently living in 🇳🇿 New Zealand.
 
-<img align='right' width="230" src="https://media.giphy.com/media/123/giphy.gif" >
-
 <!--
 **yanze-yang/yanze-yang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
